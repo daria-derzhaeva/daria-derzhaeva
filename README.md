@@ -16,8 +16,7 @@ I am interested in AI-powered developer tools, code generation, refactoring, deb
 ## Resume & Links
 
 ⭐ [LinkedIn](https://www.linkedin.com/in/derzhaeva)  
-⭐ [Resume](./Daria_Derzhaeva_QA.pdf)
-
+⭐ [Resume](./assets/CV_Daria_Derzhaeva_%20QA.pdf)
 ---
 
 
