@@ -1,6 +1,8 @@
 <img src="./assets/banner.png" alt="Daria Derzhaeva Banner" width="100%">
+
 ## About me
 
+QA Engineer with 4+ years of experience testing complex web, backend, and API-driven systems in Fintech and enterprise domains.
 QA Engineer with 4+ years of experience testing complex web, backend, and API-driven systems in Fintech and enterprise domains.
 
 I specialize in exploratory testing, testing without detailed specifications, API/data flow validation, bug reproduction, and test automation. I independently built UI and API test automation from scratch using Python, Selenium, Allure, and AI-assisted development tools.
